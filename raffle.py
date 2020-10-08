@@ -1,7 +1,3 @@
-#Fix the import error in raffle.py
-
-#Finish the work on version 2 — you’ll find the project files in version2/
-
 """Read customer data from file and run a raffle."""
 
 import random
